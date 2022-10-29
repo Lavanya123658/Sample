@@ -1,2 +1,3 @@
 # Sample
 This is my first repository...
+This repository contains mostly all basic programs in Java
